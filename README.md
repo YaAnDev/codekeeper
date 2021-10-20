@@ -9,21 +9,21 @@
 
 *Для информации:* перед ознакомлением с работами следует установить следующие библиотеки: numpy , pandas , scipy , matplotlib , seaborn.  
 
-## Проект № 1
+## [Проект № 1](https://github.com/YaAnDev/codekeeper/tree/main/optimize_traffic_expenses)
 Анализировались источники траффика: оценивались перспективные источники траффика и те, от которых стоит отказаться, а также изучались категории клиентов сайта.  
 
 Проект находится в папке optimize_traffic_expenses.  
 
 Используемые инструменты: jupyter notebook, pandas, matplotlib, numpy, seaborn.  
 
-## Проект № 2  
+## [Проект № 2](https://github.com/YaAnDev/codekeeper/tree/main/monetization_model)  
 Предложена модель монетизации для мобильной игры и предоставлены рекомендации на основе имеющихся данных и результатов проверки гипотез о времени, проведенном в игре.  
 
 Проект находится в папке monetization_model.  
 
 Используемые инструменты: jupyter notebook, pandas, matplotlib, scipy, seaborn.  
 
-## Проект № 3  
+## [Проект № 3](https://github.com/YaAnDev/codekeeper/tree/main/ab_recom_system)  
 Проводился анализ результатов A/B-теста по тестированию изменений, связанных с внедрением улучшенной рекомендательной системы.  
 
 Проект находится в папке ab_recom_system.  
